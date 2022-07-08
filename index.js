@@ -1,6 +1,5 @@
 // Code your solutions in this file
-/*let countdown = 10;
-
+let countdown = 10;
 while (countdown >= 0) {
   console.log(countdown--);
 }
@@ -11,7 +10,6 @@ for (let age = 30; age < 40; age++) {
 }
 
 const gifts = ["teddy bear", "drone", "doll"];
-
 function wrapGifts(gifts) {
   for (let i = 0; i < gifts.length; i++) {
     console.log(`Wrapped ${gifts[i]} and added a bow!`);
@@ -21,7 +19,7 @@ function wrapGifts(gifts) {
   return gifts;
 } 
 wrapGifts(gifts); 
-*/
+
 
 const arrayNames = ['Guadalupe', 'Ollie', 'Aki'];
 const eventName = "surprise";
@@ -51,3 +49,8 @@ function downCount(count) {
   }
   return count;
 }
+
+
+
+
+
